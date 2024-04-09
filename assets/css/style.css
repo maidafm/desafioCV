@@ -19,6 +19,14 @@ body {
     .titulo {
         border-bottom: 1vh solid rgb(233, 83, 140);
     }
+
+    .card {
+        min-height: 350px;
+    }
+
+    .card img {
+        height: 200px;
+    }
 }
 
 .roboto-light {
@@ -69,6 +77,11 @@ body {
 
     .border {
         padding: 1%;
+    }
+
+    img {
+        height: 200px;
+        width: auto;
     }
 }
     
